@@ -1,7 +1,7 @@
 # CobbEventMap
 Map of all Events in Cobb, it'll update continously as more events are updated/added.
 
-
+Start of our SRS: https://docs.google.com/document/d/1Rgw3P0wztg_1fpQFE6azbV5ggrXr2gqih148aO_7AmQ/edit?usp=sharing
 API endpoint that'll help out:
 https://www.cobbcounty.gov/api/search/events?page=0&search=&fromDate=&toDate=&department=&category=&age=&location=
 --> Will help with collecting data for 30 days maybe more however it doesn't describe the exact location of the event
